@@ -1,4 +1,4 @@
-// 04.factorial.main.cpp
+// 04.factorial_main.cpp
 #include "04.factorial.h"
 #include <iostream>
 
